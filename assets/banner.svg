@@ -1,14 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#100f12"/><stop offset=".55" stop-color="#28171b"/><stop offset="1" stop-color="#4a1e24"/></linearGradient>
- <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8c663b"/><stop offset=".5" stop-color="#e1c18a"/><stop offset="1" stop-color="#8c663b"/></linearGradient>
- <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#d7b77b" stroke-opacity=".08"/></pattern>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#100e11"/><stop offset=".55" stop-color="#241519"/><stop offset="1" stop-color="#4b1d25"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#765338"/><stop offset=".5" stop-color="#e1c28c"/><stop offset="1" stop-color="#765338"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#d9b985" stroke-opacity=".055"/></pattern>
 </defs>
-<rect width="1200" height="300" rx="18" fill="url(#bg)"/><rect width="1200" height="300" rx="18" fill="url(#grid)"/>
-<path d="M0 238 Q260 168 500 240 T1200 190" fill="none" stroke="#a33a3e" stroke-width="2" opacity=".5"/>
-<path d="M0 254 Q260 184 500 256 T1200 206" fill="none" stroke="url(#gold)" stroke-width="1" opacity=".7"/>
-<g fill="none" stroke="url(#gold)" opacity=".7"><path d="M68 42h90M68 42v90M1132 42h-90M1132 42v90M68 258h90M68 258v-90M1132 258h-90M1132 258v-90" stroke-width="2"/></g>
-<text x="600" y="137" text-anchor="middle" fill="#f0e6d5" font-family="Georgia,serif" font-size="76" letter-spacing="12">ETTERNAL</text>
-<rect x="420" y="165" width="360" height="1.5" fill="url(#gold)"/>
-<text x="600" y="204" text-anchor="middle" fill="#c8a879" font-family="Arial,sans-serif" font-size="16" letter-spacing="5">SOFTWARE  •  GAME DEVELOPMENT  •  SYSTEMS</text>
+<rect width="1200" height="340" rx="18" fill="url(#bg)"/><rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+<path d="M0 260Q250 185 480 260T1200 205" fill="none" stroke="#9e3941" stroke-width="2" opacity=".55"/>
+<path d="M0 278Q250 203 480 278T1200 223" fill="none" stroke="url(#gold)" opacity=".65"/>
+<g fill="none" stroke="url(#gold)" stroke-width="1.6" opacity=".9">
+ <path d="M34 34h120M34 34v120M1166 34h-120M1166 34v120M34 306h120M34 306V186M1166 306h-120M1166 306V186"/>
+ <path d="M52 52h38M52 52v38M1148 52h-38M1148 52v38M52 288h38M52 288v-38M1148 288h-38M1148 288v-38" opacity=".5"/>
+</g>
+<g fill="none" stroke="#c6a06b" opacity=".18">
+ <circle cx="175" cy="170" r="78"/><circle cx="175" cy="170" r="62"/><path d="M175 78v184M83 170h184M110 105l130 130M240 105L110 235"/>
+ <circle cx="1025" cy="170" r="78"/><circle cx="1025" cy="170" r="62"/><path d="M1025 78v184M933 170h184M960 105l130 130M1090 105L960 235"/>
+</g>
+<path d="M600 60l12 12-12 12-12-12z" fill="none" stroke="#d0ad75" stroke-width="1.5"/>
+<text x="600" y="151" text-anchor="middle" fill="#f1e7d7" font-family="Georgia,serif" font-size="76" letter-spacing="13">ETTERNAL</text>
+<rect x="410" y="178" width="380" height="1.5" fill="url(#gold)"/>
+<text x="600" y="216" text-anchor="middle" fill="#c8a879" font-family="Arial,sans-serif" font-size="15" letter-spacing="4.4">SOFTWARE  /  GAME DEVELOPMENT  /  SYSTEMS</text>
+<text x="600" y="250" text-anchor="middle" fill="#a99a8b" font-family="Arial,sans-serif" font-size="11" letter-spacing="3">INDEPENDENT DEVELOPER</text>
 </svg>
