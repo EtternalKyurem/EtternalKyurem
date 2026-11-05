@@ -1,93 +1,120 @@
-<div align="center">
+ <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Etternal — Software, Game Development and Systems">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D0B12,48:21143D,100:6D28D9&text=ETTERNAL&fontColor=EDE9FE&fontSize=60&fontAlignY=38&desc=INDEPENDENT%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=60&descSize=12&animation=fadeIn" alt="Etternal profile banner" />
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+software+and+interactive+systems;Game+development+%26+gameplay+systems;Python+%7C+C%23+%7C+JavaScript+%28ES5%29;Automation%2C+integrations+%26+local+AI+experiments" alt="Animated introduction" />
 
-<a href="https://github.com/EtternalKyurem"><img src="https://img.shields.io/badge/OPEN_GITHUB_PROFILE-21191c?style=for-the-badge&logo=github&logoColor=e8ddcd" alt="GitHub profile"></a>
-<img src="https://img.shields.io/badge/BASED_IN-BRAZIL-64252d?style=for-the-badge" alt="Based in Brazil">
+<br />
 
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="Decorative divider">
-
-<div align="center">
-
-## ABOUT
-
-**Independent developer · Software Engineering student**
-
-Building software, gameplay systems, automation and tools through experimentation and continuous learning.
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="Decorative divider">
-
-## TECHNOLOGY
-
-<div align="center">
-
-### LANGUAGES
-
-<img src="assets/tech/python.svg" height="64" alt="Python">
-<img src="assets/tech/csharp.svg" height="64" alt="C#">
-<img src="assets/tech/cpp.svg" height="64" alt="C++">
-<img src="assets/tech/java.svg" height="64" alt="Java">
-<img src="assets/tech/javascript.svg" height="64" alt="JavaScript">
-<img src="assets/tech/typescript.svg" height="64" alt="TypeScript">
-<img src="assets/tech/rust.svg" height="64" alt="Rust">
-<img src="assets/tech/lua.svg" height="64" alt="Lua">
-
-</div>
-<div align="center">
-
-### GAME DEVELOPMENT & MODDING
-
-<img src="assets/tech/unity.svg" height="64" alt="Unity">
-<img src="assets/tech/unreal.svg" height="64" alt="Unreal Engine">
-<img src="assets/tech/mirror.svg" height="64" alt="Mirror Networking">
-<img src="assets/tech/forge.svg" height="64" alt="Minecraft Forge">
-<img src="assets/tech/customnpcs.svg" height="64" alt="CustomNPCs">
-<img src="assets/tech/nashorn.svg" height="64" alt="Nashorn ES5">
-
-</div>
-<div align="center">
-
-### WEB & BACKEND
-
-<img src="assets/tech/html.svg" height="64" alt="HTML5">
-<img src="assets/tech/css.svg" height="64" alt="CSS3">
-<img src="assets/tech/react.svg" height="64" alt="React">
-<img src="assets/tech/nextjs.svg" height="64" alt="Next.js">
-<img src="assets/tech/node.svg" height="64" alt="Node.js">
-<img src="assets/tech/flask.svg" height="64" alt="Flask">
-<img src="assets/tech/api.svg" height="64" alt="REST APIs">
-<img src="assets/tech/sqlite.svg" height="64" alt="SQLite">
-<img src="assets/tech/postgres.svg" height="64" alt="PostgreSQL">
-
-</div>
-<div align="center">
-
-### TOOLS & CREATIVE
-
-<img src="assets/tech/git.svg" height="64" alt="Git">
-<img src="assets/tech/github.svg" height="64" alt="GitHub">
-<img src="assets/tech/vscode.svg" height="64" alt="VS Code">
-<img src="assets/tech/idea.svg" height="64" alt="IntelliJ IDEA">
-<img src="assets/tech/visualstudio.svg" height="64" alt="Visual Studio">
-<img src="assets/tech/blender.svg" height="64" alt="Blender">
-<img src="assets/tech/ollama.svg" height="64" alt="Ollama">
-<img src="assets/tech/docker.svg" height="64" alt="Docker">
-<img src="assets/tech/powerautomate.svg" height="64" alt="Power Automate">
+<a href="https://github.com/EtternalKyurem?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
+</a>
+<img src="https://img.shields.io/badge/BASED%20IN-BRAZIL-17151F?style=for-the-badge&logo=googlemaps&logoColor=A78BFA" alt="Based in Brazil" />
 
 </div>
 
 ---
 
+## About
+
+I'm **Etternal (Paulo Jabneel Wavgenhak)**, a Software Engineering student from Brazil and an independent developer interested in building practical software and interactive systems.
+
+My work and personal projects span software development, game systems, scripting, automation and experimentation with local AI. I enjoy understanding how systems work, solving technical problems, and turning ideas into structured, maintainable implementations.
+
+Areas I spend time on:
+
+- **Software & tools:** application logic, scripting, APIs and small utilities.
+- **Game development:** gameplay mechanics, combat, progression and multiplayer prototypes.
+- **Minecraft development:** modded environments, CustomNPCs scripting and server-side systems.
+- **Automation & AI:** workflow automation, local language models and application integrations.
+
+## Technologies
+
+The technologies below reflect a mix of hands-on project use and ongoing study. My experience is not identical across every item.
+
 <div align="center">
 
-<img src="assets/footer.svg" width="100%" alt="Decorative footer">
+**Used in projects and scripting**
 
-<sub>Learning through building · Improving through iteration</sub>
+<img src="https://skillicons.dev/icons?i=python,cs,js,java&theme=dark" alt="Python, C sharp, JavaScript and Java" />
+
+`Python` · `C#` · `JavaScript (ES5 / Nashorn)` · `Java`
+
+**Additional study & exploration**
+
+`C` · `C++` · `TypeScript` · `Rust` · `Go` · `SQL` · `HTML` · `CSS`
+
+**Game development & modding**
+
+<img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" />
+
+`Unity` · `Mirror Networking` · `Minecraft Forge` · `CustomNPCs (CNPC)` · `Mohist` · `Nashorn / JavaScript ES5`
+
+**Automation, AI & integration**
+
+`Power Automate` · `Ollama` · `GGUF models` · `REST APIs` · `Local LLM experimentation`
+
+**Tools & workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,docker,blender&theme=dark" alt="Development tools" />
+
+</div>
+
+## Selected projects & experiments
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AetheriaLauncher</h3>
+      <p>A Minecraft launcher project, focused on the tooling around installing, organizing and launching a modded game environment.</p>
+      <sub>Independent project · Development status may vary</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>CNPCScriptLibrary</h3>
+      <p>A collection of reusable scripts and utilities for CustomNPCs, with an emphasis on organizing behavior and reducing repeated scripting work.</p>
+      <sub>JavaScript ES5 · Nashorn · CustomNPCs</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Unity & Mirror prototypes</h3>
+      <p>Experiments with multiplayer gameplay, combat flow, character attributes, damage handling and gameplay feedback.</p>
+      <sub>Unity · C# · Mirror Networking</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Local AI tools</h3>
+      <p>Experiments integrating locally hosted language models into small applications and character-oriented tools.</p>
+      <sub>Python · Ollama · Local models</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>EtternalCore / RPG systems</h3>
+      <p>Personal prototypes exploring RPG mechanics such as attributes, progression, combat rules and abilities.</p>
+      <sub>Gameplay systems · Scripting · Prototyping</sub>
+    </td>
+  </tr>
+</table>
+
+> These are independent projects and experiments, not all released products. Check the repositories for source code, documentation and each project's current status.
+
+## Beyond the code
+
+I have been involved with Minecraft multiplayer communities and independent server projects for many years. That experience has given me practical exposure to server administration, troubleshooting, player support, moderation workflows and the maintenance of community-driven environments.
+
+I value clear communication, useful documentation, problem-solving and learning through implementation.
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/EtternalKyurem"><img src="https://img.shields.io/badge/GitHub-17151F?style=for-the-badge&logo=github&logoColor=EDE9FE" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/paulo-wavgenhak-930579437"><img src="https://img.shields.io/badge/LinkedIn-17151F?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
+<a href="mailto:jab.wavgenhak@gmail.com"><img src="https://img.shields.io/badge/Email-17151F?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" /></a>
+<a href="https://www.instagram.com/etternal_kyurem"><img src="https://img.shields.io/badge/Instagram-17151F?style=for-the-badge&logo=instagram&logoColor=EDE9FE" alt="Instagram" /></a>
+
+<br /><br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6D28D9,50:21143D,100:0D0B12" alt="Purple footer" />
 
 </div>
